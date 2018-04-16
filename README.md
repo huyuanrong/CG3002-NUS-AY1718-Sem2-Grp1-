@@ -1,1 +1,1 @@
-# CG3002_hardware
+# CG3002
