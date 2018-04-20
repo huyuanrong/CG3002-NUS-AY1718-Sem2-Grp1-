@@ -1,4 +1,4 @@
-# CG3002 AY1718 Sem2-Grp1 *Team Dance Dance*
+# CG3002 AY1718 Sem2-Grp1 *Team Dance Dance* :kissing_closed_eyes:
 <p align="center">
   <img width="460" height="300" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Dance.gif">
   <br />Cool Dancing Move : Aung
@@ -65,7 +65,7 @@ This is accomplished with the use of the <br/>
 For a more descriptive input on our entire workflow during our project 
 [Our Final Report](https://docs.google.com/document/d/e/2PACX-1vSpjUFjRNl7e6JJQJJ65Yprw-i7BXjSwZDn2pg3ihJ2jsP31y5s0_-hbesywqSBOBQrMhCYndNM3Ybg/pub)
 <br />
-Do note that this link is read-only. Copyright is extended to only current teammembers. If any reference OR copying of code/ workflow is needed, feel free to contact us through github to gain the relevant permissions.
+Do note that this link is read-only. Copyright is extended to only current teammembers. If any reference OR copying of code/ workflow is needed, feel free to contact us through github to gain the relevant permissions.:exclamation::exclamation::exclamation:
 
 ## **Credit**
-This Readme file is done up by Justin Tan Kun Jie.
+This Readme file is done up by Justin Tan Kun Jie. :thumbsup:
