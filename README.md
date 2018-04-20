@@ -28,7 +28,7 @@ This is accomplished with the use of the <br/>
 
 ## **5 Basic Dance Moves**
 <p align="left">
-  <img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Wavehands.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/wavehand.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/wavehand.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Turnclap.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/wavehand.gif">
+  <img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Wavehands.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Jump.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Frontback.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Turnclap.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Windowcleaning.gif">
 <pre>
    WaveHands                Jump                   FrontBack              Turnclap             WindowCleaning
 </pre>
@@ -36,7 +36,7 @@ This is accomplished with the use of the <br/>
 
 ## **5 Advanced Dance Moves**
 <p align="left">
-  <img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Number6.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Jumpleftright.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/wavehand.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Squadturnclap.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Window360.gif">
+  <img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Number6.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Jumpleftright.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Sidestep.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Squadturnclap.gif"><img width="170" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Window360.gif">
 <pre>
    Number6                JumpLeftRight            SideStep           SquadTurnclap         WindowCleaning360
 </pre>
