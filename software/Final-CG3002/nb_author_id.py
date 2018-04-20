@@ -38,8 +38,8 @@ def preprocesses():
             #Labels are given only in the first column
             y = data[0:int(total_sample*portion), 0]
             #segment the data by window size and overlap, 10Hz
-            window_size = 42;
-            overlap = 21;
+            window_size = 50;
+            overlap = 25;
             segment = []
             labels = []
             for i in range(int(len(X)/overlap)):
