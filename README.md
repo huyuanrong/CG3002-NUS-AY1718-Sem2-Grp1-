@@ -9,6 +9,7 @@
 | Name | Matriculation No. | Team |
 | :---: | :---: | :---: |
 | Justin Tan Kun Jie | A0156049B | Software |
+| Eu Jin Marcus Yatim | A0124453M | Software |
 | Aung Myin Kyaw | A0160121A | Hardware |
 | Chua Woo Hian | A0140019W | Hardware |
 | Ong Li-Jen | A0139516B | Communications |
