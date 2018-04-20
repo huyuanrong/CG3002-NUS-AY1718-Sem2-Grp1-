@@ -6,14 +6,14 @@
 
 ## **Team Members:**
   
-| Name | Matriculation No. | Team |
+| Name | Course of Study. | Team |
 | :---: | :---: | :---: |
-| Justin Tan Kun Jie | A0156049B | Software |
-| Eu Jin Marcus Yatim | A0124453M | Software |
-| Aung Myin Kyaw | A0160121A | Hardware |
-| Chua Woo Hian | A0140019W | Hardware |
-| Ong Li-Jen | A0139516B | Communications |
-| Hu YuanRong | A0149609U | Communications |
+| Justin Tan Kun Jie | Computer Engineering | Software |
+| Eu Jin Marcus Yatim | Computer Engineering | Software |
+| Aung Myin Kyaw |Computer Engineering | Hardware |
+| Chua Woo Hian | Computer Engineering | Hardware |
+| Ong Li-Jen | Computer Engineering | Communications |
+| Hu YuanRong | Computer Engineering | Communications |
 
 ## **Brief Description of Project**
 
