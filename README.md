@@ -54,7 +54,7 @@ This is accomplished with the use of the <br/>
 ## **Sensor layout/ Hardware**
 <pre>
 <img width="370" height="400" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/backview.jpeg">               <img width="370" height="400" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/frontview.jpeg">               <img width="370" height="400" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/insidebag.jpeg">
-                    Front View                                                       Back View                                                     Inside Bag
+                    Back View                                                       Front View                                                     Inside Bag
 </pre>
 
 ## Workflow Diagram - Gantt Chart
