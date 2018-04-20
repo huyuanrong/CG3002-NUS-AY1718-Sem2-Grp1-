@@ -48,7 +48,7 @@ float dAccX_f, dAccY_f, dAccZ_f, gyX_f, gyY_f, gyZ_f; //For processing
 float voltageValue;
 float currentValue;
 float powerValue;
-float energyValue = 0.03;
+float energyValue;
 
 const float RS = 0.095;          // Shunt resistor value (in ohms)
 const int VOLTAGE_REF = 5;  // Reference voltage for analog read
