@@ -7,10 +7,12 @@
 ## **Team Members:**
   
 | Name | Matriculation No. | Team |
-| --- | :---: | :---: |
+| :---: | :---: | :---: |
 | Justin Tan Kun Jie | A0156049B | Software |
 | Aung Myin Kyaw | A0160121A | Hardware |
 | Chua Woo Hian | A0140019W | Hardware |
+| Ong Li-Jen | A0139516B | Communications |
+| Hu YuanRong | A0149609U | Communications |
 
 ## **Brief Description of Project**
 
@@ -49,3 +51,7 @@ This is accomplished with the use of the <br/>
 </p>
 
 ## **Sensor layout/ Hardware**
+<pre>
+<img width="370" height="400" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/backview.jpeg">               <img width="370" height="400" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/frontview.jpeg">               <img width="370" height="400" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/insidebag.jpeg">
+                    Front View                                                       Back View                                                     Inside Bag
+</pre>
