@@ -6,13 +6,14 @@
 
 ## **Team Members:**
   
-| Name | Matriculation No. | Team |
+| Name | Course of Study. | Team |
 | :---: | :---: | :---: |
-| Justin Tan Kun Jie | A0156049B | Software |
-| Aung Myin Kyaw | A0160121A | Hardware |
-| Chua Woo Hian | A0140019W | Hardware |
-| Ong Li-Jen | A0139516B | Communications |
-| Hu YuanRong | A0149609U | Communications |
+| Justin Tan Kun Jie | Computer Engineering | Software |
+| Eu Jin Marcus Yatim | Computer Engineering | Software |
+| Aung Myin Kyaw |Computer Engineering | Hardware |
+| Chua Woo Hian | Computer Engineering | Hardware |
+| Ong Li-Jen | Computer Engineering | Communications |
+| Hu YuanRong | Computer Engineering | Communications |
 
 ## **Brief Description of Project**
 
@@ -44,7 +45,7 @@ This is accomplished with the use of the <br/>
 
 ## **Logout Move**
 <p align="left">
-  <img width="1000" height="200" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/wavehand.gif">
+  <img width="200" height="250" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/logout1.gif"><img width="200" height="250" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/logout2.gif"><img width="200" height="250" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/logout3.gif"><img width="250" height="250" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/logout4.gif">
 <pre>
                                                    Logout Move            
 </pre>
@@ -55,3 +56,12 @@ This is accomplished with the use of the <br/>
 <img width="370" height="400" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/backview.jpeg">               <img width="370" height="400" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/frontview.jpeg">               <img width="370" height="400" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/insidebag.jpeg">
                     Front View                                                       Back View                                                     Inside Bag
 </pre>
+
+## Sample of the report
+For a more descriptive input on our entire workflow during our project 
+[Our Final Report](https://docs.google.com/document/d/e/2PACX-1vSpjUFjRNl7e6JJQJJ65Yprw-i7BXjSwZDn2pg3ihJ2jsP31y5s0_-hbesywqSBOBQrMhCYndNM3Ybg/pub)
+<br />
+Do note that this link is read-only. Copyright is extended to only current teammembers. If any reference OR copying of code/ workflow is needed, feel free to contact us through github to gain the relevant permissions.
+
+## **Credit**
+This Readme file is done up by Justin Tan Kun Jie.
