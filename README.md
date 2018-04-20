@@ -47,7 +47,7 @@ This is accomplished with the use of the <br/>
 <p align="left">
   <img width="200" height="250" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/logout1.gif"><img width="200" height="250" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/logout2.gif"><img width="200" height="250" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/logout3.gif"><img width="250" height="250" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/logout4.gif">
 <pre>
-                                                   Logout Move            
+                                                   Logout Move                                                      
 </pre>
 </p>
 
