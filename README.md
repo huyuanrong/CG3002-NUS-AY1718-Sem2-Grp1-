@@ -57,6 +57,10 @@ This is accomplished with the use of the <br/>
                     Front View                                                       Back View                                                     Inside Bag
 </pre>
 
+## Workflow Diagram - Gantt Chart
+
+<img width="800" height="400" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/Ganttchart.jpeg">
+
 ## Sample of the report
 For a more descriptive input on our entire workflow during our project 
 [Our Final Report](https://docs.google.com/document/d/e/2PACX-1vSpjUFjRNl7e6JJQJJ65Yprw-i7BXjSwZDn2pg3ihJ2jsP31y5s0_-hbesywqSBOBQrMhCYndNM3Ybg/pub)
