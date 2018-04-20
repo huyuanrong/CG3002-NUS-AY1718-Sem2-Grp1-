@@ -15,19 +15,15 @@
 | Ong Li-Jen | A0139516B | Communications |
 | Hu YuanRong | A0149609U | Communications |
 
-## **Abstract**
+## **Brief Description of Project**
 
 <p align="left">
   <pre>
-The CG3002 Embedded System Design Project consists of 3 technical categories: Software, Communications and Hardware. 
-
-In the hardware category, there are several parts of components working together. Essentially, there are 3 main roles. Firstly, there is a need to create a power measurement circuit to help keep track of power consumption and reducing the overall consumption. Secondly, the sensors have to be ensured to be working well and are providing the correct readings. Lastly, a design plan was constructed and used to integrate all the components to make sure everything is working together in sync.  
-
-In the communications category, two main roles were defined, the first being establishing a connection between the Raspberry Pi and Arduino Mega through serial port communication using UART and the next is the Raspberry Pi communicating to the server using TCP/IP client server communication.
-
-Finally, in the software category, machine learning was explored extensively and many integral concepts of it were employed. These include segmentation of data, features extraction, understanding machine learning models, training and testing the models.
-
-All these categories are integrated with each other to accomplish the objective of attempting to detect a number of labelled dance moves performed by the user.
+This project is developed in an attempt to detect labelled dance moves performed by the user. <br/>
+This is accomplished with the use of the <br/>
+  Arduino: Obtain sensor values and output to the rasphberry Pi <br/>
+  Rasphberry Pi: Load sensor values into Machine Learning model, send the prediction to the server <br/>
+  Machine Learning: Processing raw sensor data and to output the prediction.<br/>
   </pre>
 <p/>
 
@@ -60,3 +56,12 @@ All these categories are integrated with each other to accomplish the objective 
 <img width="370" height="400" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/backview.jpeg">               <img width="370" height="400" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/frontview.jpeg">               <img width="370" height="400" src="https://github.com/huyuanrong/CG3002AY1718Sem2-Grp1/blob/master/insidebag.jpeg">
                     Front View                                                       Back View                                                     Inside Bag
 </pre>
+
+## Sample of the report
+For a more descriptive input on our entire workflow during our project 
+[Our Final Report](https://docs.google.com/document/d/e/2PACX-1vSpjUFjRNl7e6JJQJJ65Yprw-i7BXjSwZDn2pg3ihJ2jsP31y5s0_-hbesywqSBOBQrMhCYndNM3Ybg/pub)
+<br />
+Do note that this link is read-only. Copyright is extended to only current teammembers. If any reference OR copying of code/ workflow is needed, feel free to contact us through github to gain the relevant permissions.
+
+## **Credit**
+This Readme file is done up by Justin Tan Kun Jie.
