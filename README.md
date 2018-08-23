@@ -63,7 +63,7 @@ This is accomplished with the use of the <br/>
 
 ## Sample of the report
 For a more descriptive input on our entire workflow during our project 
-[Our Final Report](https://drive.google.com/file/d/1dcaepgP898JEJjkKe0QLsdczcXl8Ydqf/view)
+[Our Final Report] REPORT REMOVED!
 <br />
 Do note that this link is proprietary to Team Dance . Copyright is extended to only current teammembers. If any reference OR copying of code/ workflow is needed, feel free to contact us through github to gain the relevant permissions.:exclamation::exclamation::exclamation:
 
